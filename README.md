@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=7VAI73roXaY
 
 https://raw.githubusercontent.com/RodrigoMvs123/The-NGINX-Crash-Course/main/README.md
 
+https://github.com/RodrigoMvs123/The-NGINX-Crash-Course/blame/main/README.md
+
 Nginx
 It is a server that is gonna to serve web content to our browser
 
